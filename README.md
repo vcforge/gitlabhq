@@ -1,9 +1,5 @@
 ## GitLab: self hosted Git management software
 
-![logo](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/public/gitlab_logo.png)
-
-![animated-screenshots](https://gist.github.com/fnkr/2f9badd56bfe0ed04ee7/raw/4f48806fbae97f556c2f78d8c2d299c04500cb0d/compiled.gif)
-
 ### Gitlab is open source software to collaborate on code
 
 * Manage git repositories with fine grained access controls that keep your code secure
